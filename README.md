@@ -1,2 +1,9 @@
-# minha-primeira-landing-page
-Criação de uma landing page para loja de dindins 
+# Landing Page para Loja de Dindins Gourmet 🍧
+**Projeto Prático**
+
+
+### Objetivo
+
+- Praticar comandos do Git 
+- Assimilar conteúdos de HTML e CSS 
+
