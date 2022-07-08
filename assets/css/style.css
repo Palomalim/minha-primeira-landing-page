@@ -1,0 +1,71 @@
+@import url("https://use.typekit.net/mrf0boo.css");
+
+body {
+    background-image: url(/assets/images/blackground_blue_3.png);
+    font-family: montserrat, sans serif;
+}
+
+.lista {
+    display: flex;
+    flex-direction: row;
+    /* border: white solid 2px; */
+    margin:0;
+    width: auto;
+    height: 110px;
+    align-items: center;
+    justify-content: flex-end;
+   
+}
+
+li {
+    
+    margin:30px;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 16px;
+    text-transform: uppercase;
+
+}
+
+a {
+    text-decoration: none;
+    color:white;
+  
+}
+
+#logo{
+   align-self:center;
+   justify-content: flex-start;
+ 
+
+}
+
+.botao {
+      background-color: #F2B413;
+      padding: 18px;
+      border-radius: 33px;
+      /* text-shadow:  1px 1px  1px black; */
+      font-weight: 800;
+}
+
+
+
+.text {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        /* border: white solid 2px; */
+        width: auto;
+        margin-left: 0;
+
+}
+
+.item_h2 {
+        align-self: center;
+        padding: 0;
+        font-size: 40px;
+        font-weight: 800;
+        color: white;
+        font-style: normal;
+        /* text-shadow: 1px 1px 3px #49F3F5 ; */
+}
